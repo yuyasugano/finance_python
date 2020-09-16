@@ -1,8 +1,8 @@
-# Backtesting.py Samples
+# Jupyter Notebook Samples for Finance
  
 ## Overview
  
-This is an experimental use of Backtesting.py and provide a few samples of crypto trading. 
+This is a series of studies of Jupyter Notebook for Finance. 
 
 ## Jupyter Notebook
 
