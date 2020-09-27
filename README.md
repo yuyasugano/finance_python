@@ -12,6 +12,7 @@ This is a series of studies of Jupyter Notebook for Finance.
 4. `Mastering DataFrame - how to aggregate OHLCV data in a different time period.ipynb` 
 5. `How to compute price correlation for financial data in Python.ipynb` 
 6. `How to build Sentiment Analysis with NLTK and Sciki-learn in Python.ipynb` 
+7. `How to draw a candle stick chart with DataFrame in Python (mplfinance, plotly and bokeh).ipynb` 
  
 ## License
  
