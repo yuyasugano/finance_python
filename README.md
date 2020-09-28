@@ -13,7 +13,8 @@ This is a series of studies of Jupyter Notebook for Finance.
 5. `How to compute price correlation for financial data in Python.ipynb` 
 6. `How to build Sentiment Analysis with NLTK and Sciki-learn in Python.ipynb` 
 7. `How to draw a candle stick chart with DataFrame in Python (mplfinance, plotly and bokeh).ipynb` 
- 
+8. `How to draw 4 most common trend indicators in matplotlib in Python.ipynb` 
+
 ## License
  
 This code is licensed under the MIT License. 
