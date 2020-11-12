@@ -18,6 +18,7 @@ This is a series of studies of Jupyter Notebook for Finance.
 10. `How to draw support and resistence lines with DataFrame in Python.ipynb`
 11. `Coefficient variable for crypto assets.ipynb` 
 12. `3 ways to do test of normality with Scipy library in Python.ipynb` 
+13. `What are standarization and normalization? Test with iris data set in Scikit-learn.ipynb` 
 
 ## License
  
