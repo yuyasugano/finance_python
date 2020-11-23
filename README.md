@@ -20,7 +20,8 @@ This is a series of studies of Jupyter Notebook for Finance.
 12. `3 ways to do test of normality with Scipy library in Python.ipynb` 
 13. `What are standarization and normalization? Test with iris data set in Scikit-learn.ipynb` 
 14. `Scikit-learn LinearRegression vs Numpy Polyfit.ipynb`
- 
+15. `3 ways to do dimensional reduction techniques in Scikit-learn.ipynb`
+  
 ## License
  
 This code is licensed under the MIT License. 
